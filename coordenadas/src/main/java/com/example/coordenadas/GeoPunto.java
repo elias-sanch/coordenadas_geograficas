@@ -20,6 +20,7 @@ public class GeoPunto {
     /**
      * Calcula la distancia geografica, en metros, a un punto indicado
      * @param punto El punto al cual se calcula la distancia
+     * @return Distancia en metros al punto indicado
      */
     public double distancia (GeoPunto punto) {
         final double RADIO_TIERRA = 6371000; //En metros
