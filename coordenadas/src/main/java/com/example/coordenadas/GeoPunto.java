@@ -18,7 +18,7 @@ public class GeoPunto {
     }
 
     /**
-     * Calcula la distancia geografica a un punto indicado
+     * Calcula la distancia geografica, en metros, a un punto indicado
      * @param punto El punto al cual se calcula la distancia
      */
     public double distancia (GeoPunto punto) {
